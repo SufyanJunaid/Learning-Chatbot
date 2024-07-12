@@ -119,3 +119,8 @@ Goodbye! Have a great day!
 ## Contributing
 
 Feel free to fork this repository, make improvements, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+## Acknowledgements
+
+I would like to express my gratitude to Professor Dr. Muhammad Atif Saeed for their guidance and support throughout this semester project, my family for their constant support and encouragement, and Dev-C++ for providing an excellent IDE for development.
+
