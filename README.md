@@ -98,6 +98,11 @@ Enter a keyword or phrase: [Your keyword]
 Enter the response for this keyword or phrase: [Your response]
 ```
 
+## Demonstration
+
+https://github.com/user-attachments/assets/a783bcbb-0af1-435f-8447-c19566bde0ae
+
+
 ### Emergency Services
 
 For emergency situations, you can ask for emergency contact information.
