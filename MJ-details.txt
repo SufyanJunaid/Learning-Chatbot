@@ -1,0 +1,56 @@
+hello
+Hello! Welcome to our Auto Maintenance Workshop. How can we assist you today?
+services
+We offer a range of services including oil changes, tire rotations, brake inspections, engine diagnostics, and more.
+oil change
+Our oil change service includes high-quality oil and filter replacement to keep your engine running smoothly.
+tire rotation
+Regular tire rotations promote even tread wear and extend tire life. We recommend it every 5,000 miles.
+brake inspection
+Brakes are crucial for safety. Our inspections ensure optimal performance and detect any issues early.
+engine diagnostics
+We use advanced diagnostics tools to identify and address engine problems quickly and accurately.
+maintenance schedule
+A regular maintenance schedule helps prevent costly repairs. Let us create a customized plan for your vehicle.
+appointment
+Would you like to schedule an appointment? Please let us know your preferred date and time, and we'll confirm it.
+pricing
+For pricing details on our services, visit our website or contact us directly. We offer competitive rates.
+rates
+For pricing details on our services, visit our website or contact us directly. We offer competitive rates.
+location
+You can find us at PWD, Islamabad. Visit us during our business hours for expert auto care.
+located
+You can find us at PWD, Islamabad. Visit us during our business hours for expert auto care.
+hours
+We are open from 9 am  to 11 pm, Monday through Friday. Visit us at your convenience!
+timings
+We are open from 9 am  to 11 pm, Monday through Friday. Visit us at your convenience!
+feedback
+Your feedback helps us improve our services. Please share your experience or suggestions with us.
+thank you
+Thank you for choosing our Auto Maintenance Workshop. We look forward to serving you!
+fluid check
+Regular fluid checks are essential for vehicle performance. We can top off fluids and check for leaks.
+air filter replacement
+A clean air filter improves fuel efficiency and engine performance. We recommend replacement every 12 months.
+battery inspection
+Battery issues can cause unexpected breakdowns. Let us inspect your battery's health and recommend maintenance.
+tune-up
+A regular tune-up keeps your engine running efficiently. Schedule one today for optimal performance.
+alignment service
+Proper wheel alignment extends tire life and improves handling. We offer precision alignment services.
+vehicle inspection
+Preventive inspections catch problems early. Schedule a comprehensive inspection to ensure your vehicle's safety.
+warranty information
+Learn about our warranty coverage for services and parts. We stand behind our workmanship and products.
+hi
+Hi, Welcome to MJ Auto Maintenance! How can we help you today?
+good
+Thank you
+your owner
+I'm a chatbot, My developer Sufyan Junaid can be called my owner.
+oh
+Yeah, what else you want to know?
+happy
+Glad that you're happy, I'll be happy to assist you more.
